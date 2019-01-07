@@ -1,25 +1,29 @@
 {
-  "prod_id": 1,
-  "prod_title": "TV",
-  "desc":"All types of TVs are available here."
-},
-{
-  "prod_id": 2,
-  "prod_title": "Mobile Phones",
-  "desc":"All types of Mobils are available here."
-},
-{
-  "prod_id": 3,
-  "prod_title": "Books",
-  "desc":"All categories of Books are available here."
-},
-{
-  "prod_id": 4,
-  "prod_title": "Computers",
-  "desc":"All types of Computers are available here."
-},
-{
-  "prod_id": 5,
-  "prod_title": "Toys",
-  "desc":"All types of Toys are available here for all ages."
+  "posts": [
+    {
+      "prod_id": 1,
+      "prod_title": "TV",
+      "desc":"All types of TVs are available here."
+    },
+    {
+      "prod_id": 2,
+      "prod_title": "Mobile Phones",
+      "desc":"All types of Mobils are available here."
+    },
+    {
+      "prod_id": 3,
+      "prod_title": "Books",
+      "desc":"All categories of Books are available here."
+    },
+    {
+      "prod_id": 4,
+      "prod_title": "Computers",
+      "desc":"All types of Computers are available here."
+    },
+    {
+      "prod_id": 5,
+      "prod_title": "Toys",
+      "desc":"All types of Toys are available here for all ages."
+    }
+ ]
 }
