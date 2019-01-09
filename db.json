@@ -4,31 +4,31 @@
       "prod_id": 1,
       "prod_title": "TV",
       "prod_desc":"All types of TVs are available here.",
-      "imgs":"TV.jpeg"
+      "imgs":"TV.jpg"
     },
     {
       "prod_id": 2,
       "prod_title": "Mobile Phones",
       "prod_desc":"All types of Mobils are available here.",
-      "imgs":"mobile.jpeg"
+      "imgs":"mobile.jpg"
     },
     {
       "prod_id": 3,
       "prod_title": "Books",
       "prod_desc":"All categories of Books are available here.",
-      "imgs":"books.jpeg"
+      "imgs":"books.jpg"
     },
     {
       "prod_id": 4,
       "prod_title": "Computers",
       "prod_desc":"All types of Computers are available here.",
-      "imgs":"laptop.jpeg"
+      "imgs":"laptop.jpg"
     },
     {
       "prod_id": 5,
       "prod_title": "Toys",
       "prod_desc":"All types of Toys are available here for all ages.",
-      "imgs":"toys.jpeg"
+      "imgs":"toys.jpg"
     }
  ]
 }
